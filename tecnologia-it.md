@@ -24,3 +24,11 @@ Me interesa el análisis de datos porque actualmente muchas empresas necesitan i
 
 Primero necesito aprender los fundamentos de bases de datos, cómo se organiza la información en tablas y cómo utilizar SQL para realizar consultas. También quiero mejorar mi lógica para analizar información y aprender a interpretar los resultados obtenidos.
 
+
+
+\## ¿Qué me gustaría construir con ella?
+
+
+
+Me gustaría construir un sistema que permita analizar datos de una empresa y mostrar resultados mediante consultas, reportes y gráficas. Quiero que el sistema ayude a encontrar patrones y facilite la toma de decisiones utilizando información real.
+
